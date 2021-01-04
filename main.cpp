@@ -1,3 +1,10 @@
+/**
+* Creator : Allkrispy
+* Collaborators : None
+* Contributors : None
+* Date Created : 04/01/2021
+* Lisence : MIT Lisence
+**/
 #include <iostream>
 #include <cstdlib>
 using namespace std;
